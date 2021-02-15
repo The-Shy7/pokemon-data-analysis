@@ -2,7 +2,9 @@
 
 In this assignment, I had to utilize a dataset of interest (in this case, Pokemon) and performed exploratory analysis to better understand the shape & structure of the data, identify data quality issues, investigate initial questions, and develop preliminary insights & hypotheses.
 
-Observable Link: https://observablehq.com/@the-shy7/cse-412-homework-2@459
+Dataset link: https://github.com/shahinrostami/pokemon_dataset/blob/master/pokemon_gen_1_to_8.csv
+
+Observable link: https://observablehq.com/@the-shy7/cse-412-homework-2@459
 
 View this notebook in your browser by running a web server in this folder. For
 example:
