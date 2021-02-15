@@ -1,0 +1,14 @@
+{
+  "name": "@the-shy7/cse-412-homework-2",
+  "main": "6847fad33738c3c7@459.js",
+  "version": "459.0.0",
+  "homepage": "https://observablehq.com/@the-shy7/cse-412-homework-2",
+  "author": {
+    "name": "the-shy7",
+    "url": "https://observablehq.com/@the-shy7"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
